@@ -20,7 +20,7 @@ A minimalist web tool to check OpenRouter API key details including remaining cr
 
 ## Demo
 
-Live demo: [https://zmuhls.github.io/openrouter-key-checker/](https://zmuhls.github.io/openrouter-key-checker/)
+Live demo: [https://zmuhls.github.io/or-key-checker/](https://zmuhls.github.io/or-key-checker/)
 
 ## Security
 
