@@ -16,15 +16,7 @@ A minimalist web tool to check OpenRouter API key details including remaining cr
 1. Visit the GitHub Pages site
 2. Enter your OpenRouter API key (starts with `sk-or-v1-`)
 3. Click "Check Key" or press Enter
-4. View your key details instantly
-
-## Demo
-
-Live demo: [https://zmuhls.github.io/or-key-checker/](https://zmuhls.github.io/or-key-checker/)
-
-## Security
-
-This tool runs entirely in your browser. Your API key is only sent directly to OpenRouter's API and is never stored or transmitted elsewhere.
+4. View your key details
 
 ## License
 
